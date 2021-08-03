@@ -1,16 +1,19 @@
-### Hi there 👋
+# About me
 
-<!--
-**daxpandhi/daxpandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the founder of [QuadSpinner](https://quadspinner.com), where I have created software such as Gaea, GeoGlyph, and Helios.
 
-Here are some ideas to get you started:
+I try to create open-source software and plugins, and contribute to projects when I can. See my repos, or @quadspinner.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Want to know more? (WHY?!)
+
+I'm also the founding trustee and director of the [Mahim Pandhi Wildlife Foundation](https://pandhi.org), where I head the DesertCrocs research project among others. See our Open Source material, including hundreds of public domain crocodile photos at [Crocs.Photos](http://croc.photos) (see repo in @pandhiOrg).
+
+I live on the "desert island" of Kutch, where I spend all of my free time chasing crocodiles.
+
+I occasionally speak at conventions, events, and schools (SIGGRAPH, EUE, Mundos Digitales, Harvard). I have previously taught environment design. You can find most of my public learning material on QuadSpinner's YouTube channel. My last book was Realism in Vue, was very well received and is now available for free on GitHub.
+
+A long time ago, I used to be an environment artist for films and games, including Battlestar Galactica: Blood + Chrome, Call of Duty: Ghosts, a cancelled God of War title, among others. These days, I'm more than happy to see talented artists use the tech we create at QuadSpinner to make environments for games like Doom, Halo, Star Wars Jedi Fallen Order, Shadow of War, among many others.
+
+I'm currently dividing my time between the leading the Gaea dev team spread across 3 continents, and wildlife conservation efforts.
+
+[More on my website](https://daxpandhi.com) 
