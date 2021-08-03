@@ -4,7 +4,6 @@ I'm the founder of [QuadSpinner](https://quadspinner.com), where I have created 
 
 I try to create open-source software and plugins, and contribute to projects when I can. See my repos, or @quadspinner.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NR6B-yyetFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Want to know more? (WHY?!)
 
