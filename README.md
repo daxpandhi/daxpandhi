@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=daxpandhi&theme=dark&hide_border=true&background=0D111700&stroke=DD272700&currStreakNum=FA0000&ring=DD0000&sideLabels=FF8E01&sideNums=FF8E01&fire=DD2727" />
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=daxpandhi&count_private=true&show_icons=true&hide=stars" />
   </p>
 
 # About me
