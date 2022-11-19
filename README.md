@@ -23,4 +23,4 @@ A long time ago, I used to be an environment artist for films and games, includi
 
 I'm currently dividing my time between the leading the Gaea dev team spread across 3 continents, and wildlife conservation efforts.
 
-[More on my website](https://daxpandhi.com) 
+[More on my website](https://daxpandhi.com)  | <a rel="me" href="https://hachyderm.io/@daxpandhi">Mastodon</a> | <a href="https://www.linkedin.com/in/daxpandhi/">LinkedIn</a>
