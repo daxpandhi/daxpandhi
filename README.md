@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=daxpandhi&count_private=true&show_icons=true&hide=stars" />
-  </p>
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=daxpandhi&count_private=true&show_icons=true&hide=stars&show_icons=true&theme=nord" />
+</p>
 
 # About me
 
